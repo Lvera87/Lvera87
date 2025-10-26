@@ -89,7 +89,6 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
           <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
           <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-          <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">
         </p>
       </div>
     </td>
